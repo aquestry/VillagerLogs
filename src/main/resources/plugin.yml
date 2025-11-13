@@ -1,0 +1,7 @@
+name: VillagerLogs
+version: '1.0'
+main: dev.anton.villagerLogs.VillagerLogs
+api-version: '1.21'
+authors: [Anton]
+description: A Simple plugin to log interactions with villagers in detail
+website: https://aquestry.dev
